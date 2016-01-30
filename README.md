@@ -25,5 +25,10 @@ On Linux and Mac :-
   
   The General format is :-
     
-  ` git clone <GitRepoURL>
+  ` git clone <GitRepoURL> `
 
+## Setting up a Server :
+
+1. Make sure Node.js is installed.
+
+    For more information and download instructions, visit : <Node.js Downloads>(https://nodejs.org/en/download/)

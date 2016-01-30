@@ -76,5 +76,5 @@ Shubham Chopra
 
 For any queries or questions email me at :- shubham.chopra2906@gmail.com
 
-Feel free to Commit Changes, very much Apreciated.
+Feel free to Commit Changes, very much Appreciated.
   
